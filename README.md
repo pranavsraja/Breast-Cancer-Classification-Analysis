@@ -7,11 +7,9 @@ This repository contains an R Markdown report and corresponding PDF output title
 ## Project Information
 
 - **Title**: Breast Cancer Classification Analysis  
-- **Author**: Pranav Sunil Raja  
-- **Student ID**: 240408545  
-- **Date**: November 19, 2024  
+- **Author**: Pranav Sunil Raja   
 - **University**: Newcastle University – MSc Data Science & AI  
-- **Format**: R Markdown (`.Rmd`) + PDF Output
+
 
 ---
 
