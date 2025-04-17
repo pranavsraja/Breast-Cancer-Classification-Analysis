@@ -1,4 +1,4 @@
-# Breast Cancer Classification Analysis
+# Predictive Modeling and Analysis of Breast Cancer Data
 
 This repository contains an R Markdown report and corresponding PDF output titled **"Breast Cancer Classification Analysis"**. The analysis uses supervised and unsupervised learning techniques to classify breast cancer tissue samples as benign or malignant, based on features from the Wisconsin Breast Cancer dataset.
 
